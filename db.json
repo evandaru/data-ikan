@@ -1,0 +1,39 @@
+{
+    "ikan": [
+        {
+            "id": "i001",
+            "nama": "Ikan Gurame",
+            "jenis": "Air Tawar",
+            "harga": 35000,
+            "deskripsi": "Ikan Gurame adalah ikan air tawar yang populer untuk dikonsumsi di Indonesia. Ikan ini memiliki daging yang lezat dan tebal."
+        },
+        {
+            "id": "i002",
+            "nama": "Ikan Tuna",
+            "jenis": "Laut",
+            "harga": 60000,
+            "deskripsi": "Ikan Tuna adalah ikan laut yang terkenal dengan dagingnya yang merah dan kaya akan omega-3. Ikan ini sering digunakan untuk sushi dan sashimi."
+        },
+        {
+            "id": "i003",
+            "nama": "Ikan Kakap Merah",
+            "jenis": "Laut",
+            "harga": 45000,
+            "deskripsi": "Ikan Kakap Merah adalah ikan laut yang memiliki daging putih yang lembut dan rasa yang enak. Cocok untuk digoreng atau dikukus."
+        },
+        {
+            "id": "i004",
+            "nama": "Ikan Lele",
+            "jenis": "Air Tawar",
+            "harga": 20000,
+            "deskripsi": "Ikan Lele adalah ikan air tawar yang sering dikonsumsi di Indonesia. Dagingnya lezat dan memiliki tekstur yang kenyal."
+        },
+        {
+            "id": "i005",
+            "nama": "Ikan Salmon",
+            "jenis": "Laut",
+            "harga": 80000,
+            "deskripsi": "Ikan Salmon adalah ikan laut yang terkenal dengan dagingnya yang oranye dan lezat. Kaya akan omega-3 dan sering digunakan dalam hidangan mewah."
+        }
+    ]
+}
